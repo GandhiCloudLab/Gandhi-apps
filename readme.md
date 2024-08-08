@@ -47,16 +47,21 @@
    </tr>  
     <tr>
         <td>7</td>
+        <td>Envizi Location Serivce </td>
+        <td><a href="https://github.com/GandhiCloudLab/envizi-location-service">Link</a></td>
+   </tr>  
+    <tr>
+        <td>8</td>
         <td>IBM Cloud Module Provisioner (Microservices) </td>
         <td><a href="https://github.com/GandhiCloudLab/ibm-cloud-module-provisioner">Link</a></td>
    </tr>  
     <tr>
-        <td>8</td>
+        <td>9</td>
         <td>IDepo App (Microservices) </td>
         <td><a href="https://github.com/GandhiCloudLab/idepo-app">Link</a></td>
    </tr>  
     <tr>
-        <td>9</td>
+        <td>10</td>
         <td>Catalog App for Service Discovery </td>
         <td><a href="https://github.com/GandhiCloudLab/service-discovery-app-catalog">Link</a></td>
    </tr>  
@@ -64,12 +69,12 @@
         <td colspan=3><strong>Argo CD Apps</strong></td>
    </tr>     
     <tr>
-        <td>10</td>
+        <td>11</td>
         <td>Argo-App-ilender </td>
         <td><a href="https://github.com/GandhiCloudLab/argo-app-ilender">Link</a></td>
    </tr>     
     <tr>
-        <td>11</td>
+        <td>12</td>
         <td>Deploy iLender app with GitOps using ArgoCD and Kustomize </td>
         <td><a href="https://github.com/GandhiCloudLab/argo-app-ilender-kustomize">Link</a></td>
    </tr>
